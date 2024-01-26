@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_color">#363A43</color>
+    <color name="secondary_text_color">#7A8089</color>
+
+    <color name="toolbar_color">#0BCCEB</color>
+
+    <color name="delete_color">#FF3030</color>
+    <color name="card_view_color">#FFFFFF</color>
+
+    <color name="divider_color">#929395</color>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/save_edit"
+        android:icon="@drawable/baseline_check_24"
+        android:title="Save"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/delete_edit"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="Dwelete"
+        android:iconTint="@color/delete_color"
+        app:showAsAction="always"/>
+
+</menu>

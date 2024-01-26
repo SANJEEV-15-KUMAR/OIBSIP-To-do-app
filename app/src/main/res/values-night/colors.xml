@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <color name="toolbar_color">#118ab2</color>
+
+    <color name="text_color">#FFFFFF</color>
+    <color name="secondary_text_color">#D6D6D6</color>
+    <color name="card_view_color">#1F1F1F</color>
+    <color name="divider_color">#929395</color>
+
+
+</resources>
